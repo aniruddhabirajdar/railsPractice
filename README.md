@@ -245,9 +245,5 @@ GROUP BY categories.id;
 
 ---
 
-## Summary
 
-These queries provide a robust understanding of Active Record's querying capabilities, including filtering, grouping, and aggregation. They cover a range of use cases and showcase effective ways to handle data relationships in Rails. Additionally, the raw SQL examples demonstrate how similar queries can be executed at the database level for optimization.
-
-By keeping this README as a reference, you will be well-prepared to tackle similar scenarios in future interviews or real-world projects.
 
